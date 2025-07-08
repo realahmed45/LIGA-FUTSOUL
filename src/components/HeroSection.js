@@ -53,7 +53,7 @@ const HeroSection = ({ setCurrentSection, registrationStatus }) => {
               Winner 12k
             </div>
             <div className="text-4xl font-bold text-yellow-400 mb-2">
-              Runnerup 12k
+              Runnerup 6k
             </div>
             <div className="text-lg text-gray-300">Prize Pool</div>
           </div>
