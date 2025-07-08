@@ -1,5 +1,5 @@
 // services/api.js
-const API_BASE_URL = "http://localhost:5000/api"; // Added /api
+const API_BASE_URL = "https://futsal-backend-wod4.onrender.com/api"; // Added /api
 
 export const registrationAPI = {
   // Check registration status
