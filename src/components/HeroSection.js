@@ -3,7 +3,7 @@ import React from "react";
 
 const HeroSection = ({ setCurrentSection, registrationStatus }) => {
   return (
-    <section className="min-h-screen flex items-center justify-center relative pt-20">
+    <section className="min-h-screen flex items-center justify-center relative pt-20 mt-20">
       <div className="text-center z-10 max-w-6xl mx-auto px-6 animate-on-load">
         <div className="text-8xl mb-6 animate-bounce">🏆</div>
         <h1 className="text-6xl md:text-8xl font-black mb-6 bg-gradient-to-r from-yellow-400 via-green-500 to-blue-600 bg-clip-text text-transparent animate-on-load">
