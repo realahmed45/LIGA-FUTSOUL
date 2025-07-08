@@ -105,7 +105,7 @@ const Navigation = ({ currentSection, setCurrentSection }) => {
             </h3>
             <div className="text-sm text-gray-300 space-y-1">
               <p>⚽ Ultimate Futsal Championship</p>
-              <p>💰 50K Prize Pool</p>
+
               <p>🎯 32 Teams Maximum</p>
               <p>📍 Twin Cities Tournament</p>
             </div>
