@@ -50,7 +50,7 @@ const HeroSection = ({ setCurrentSection, registrationStatus }) => {
           </div>
           <div className="bg-white/5 backdrop-blur-xl p-6 rounded-2xl border border-white/10">
             <div className="text-4xl font-bold text-yellow-400 mb-2">
-              Winner 12k
+              Winner prize ( To be decided)
             </div>
             <div className="text-4xl font-bold text-yellow-400 mb-2">
               Runnerup 6k
